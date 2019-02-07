@@ -8,7 +8,7 @@
       - c) Separate objects in a single class from objects in another class.  
       - d) Control creation of objects in a single class or another class.  
 
-Answer: (A)
+# Answer: (A)
 
    - Q-2) Which of the following is true about Singleton class?  
       - a) The class has only a single member method.    
@@ -16,7 +16,7 @@ Answer: (A)
       - c) The class should have exactly one instance.   
       - d) The class cannot be sub-classed.         
 
-Answer: (C) 
+# Answer: (C) 
 
   ### Singleton Implementation directory singleton-pattern contains all implementation.
 
